@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="Music", M20
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:1 tvg-logo="http://rafadervian.wap.sh/images/Maleo.png" group-title=".Lokal", Maleo
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Maleo.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:1 tvg-logo="http://rafadervian.wap.sh/images/Transtv.png" group-title=".Lokal", TransTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TransTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:1 tvg-logo="http://rafadervian.wap.sh/images/Trans7_1.png" group-title=".Lokal", Trans7
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Trans7.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music", 9XM (Hindi)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/capital-radio-live-vipotv.png" group-title="Music", Capital
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8?live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=6adoBSbkyJzFaKyofDk8&content_series
+#EXTINF:1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latido-music-logo.png" group-title="Music", Latido Music
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/solidLogoPNG.png" group-title="Music", MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/11/MTV_Music_24.png/revision/latest/scale-to-width-down/200?cb=20201129234826" group-title="Music", Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bWJTyLI6q_g/YL94ogGPIRI/AAAAAAAAFRU/R-5GP2ET-Y0UtW5JNUaeVsiY6U4SCV9OwCLcBGAsYHQ/s1600/Logo+Google+Play+Music.png" group-title="Music",Play Music
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=0
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Docubox.png" group-title="Explore",DocuBox
+https://docubox-english-klowdtv.amagi.tv/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=0
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/CGTN_Espanol-vipotv.png" group-title="Explore",CGTN
+https://livedoc.cgtn.com/200d/prog_index.m3u8?network_id=269&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=6adoBSbkyJzFaKyofDk8&content_series=6164a963766ab4f9f57e81b1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=6adoBSbkyJzFaKyofDk8&custom_7=6164a963766ab4f9f57e81b1
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Explore",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=0
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/NatGeoWild.png" group-title="Explore",Nat Geo Wild
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtvus_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Explore",NASA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/NHK.png" group-title="Explore",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/1200px-Smithsonian_logo_color.svg.png" group-title="Explore",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5ef11485d33ab9004048a1ca
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wired2fish_logo_dark_v2.png" group-title="Explore",Wired2Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=608a2c722957c9002c6a617b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/AD1.png" group-title="Sports", Abu Dhabi
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=60a53634126de9002e694bc4
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="Sports", ACCDN
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5f8ee3727c75fa002d9e47c1&ads.ua=okhttp/4.9.0
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="Sports", EdGe
+https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea71d45252710041e0ccb9
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" group-title="Sports", MavTV Select
+https://7d30fd285faf40b59dd87e51a9fb1fab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MavTVSelect/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTVSelect&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5f0641d0e8ffda004033aff4&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=0
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/redbull-tv-min.png" group-title="Sports", RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=4u8WsYo2xC9PKwn9LT5d&channelId=5eea605674085f0040ddc7a6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 6 (EU)
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 6 (EU)
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 7 (EU)
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 8 (EU)
+https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 9 (EU)
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 10 (EU)
+https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 11 (EU)
+https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 12 (EU)
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family", Family 13 (EU)
+https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family",Family 16 (EU)
+https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Rcti.png" group-title=".Lokal",RCTI
+http://ploto.hexat.com/TV-LOKAL17Nov2021/RCTI.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/ANTV.png" group-title=".Lokal",ANTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/ANTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/SCTV.png" group-title=".Lokal",SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/INDOSIAR.png" group-title=".Lokal",Indosiar
+http://ploto.hexat.com/TV-LOKAL17Nov2021/INDOSIAR.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Gtv.png" group-title=".Lokal",GTV
+http://ploto.hexat.com/TV-LOKAL/GTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/iNews.png" group-title=".Lokal",INews
+http://ploto.hexat.com/TV-LOKAL/INEWS.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/NET_1.png" group-title=".Lokal",NET
+http://ploto.hexat.com/TV-LOKAL/NET.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Rtv.png" group-title=".Lokal", RTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/RTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Cnbc.png" group-title=".Lokal",CNBC
+http://ploto.hexat.com/TV-LOKAL17Nov2021/CNBC.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/MNCTV.png" group-title=".Lokal",MNCTV
+http://ploto.hexat.com/TV-LOKAL/MNCTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/jak.png" group-title=".Lokal",Jak TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/JakTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JTV.png" group-title=".Lokal",JTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/JTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/KompasTV.png" group-title=".Lokal",KompasTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/KompasTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Tvone.png" group-title=".Lokal",TVone
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TVONE.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/cnn.png" group-title=".Lokal",CNN
+http://ploto.hexat.com/TV-LOKAL17Nov2021/CNN.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Bs.png" group-title=".Lokal",BeritaSatu
+http://ploto.hexat.com/TV-LOKAL/BeritaSatu.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Metrotv.png" group-title=".Lokal",MetroTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Metrotv.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/MGN.png" group-title=".Lokal",MGN TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MGN.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=iindo
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/20211218_184009.png?c=1639827693" group-title=".Lokal",RansTV
+http://tevemobile.us.to/sc/play.m3u8?id=8241
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/MCC.png" group-title=".Lokal",MCC
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MCC.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=iindo
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Max2u.png" group-title=".Lokal",MAX 2U
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MAX20.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Kpluss.png" group-title=".Lokal",K+
+http://ploto.hexat.com/TV-LOKAL17Nov2021/K-pluss.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=iindo
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/POPmusic.png" group-title=".Lokal",Pop Music
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Popmusic.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=iindo
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/idx.png" group-title=".Lokal",IDX
+http://ploto.hexat.com/TV-LOKAL17Nov2021/IDX_1.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/C4u.png" group-title=".Lokal",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Balitv.png" group-title=".Lokal", Bali TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BaliTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Digione.png" group-title=".Lokal",Digione
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Digione.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/MtaTV.png" group-title=".Lokal",MTA TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MTA.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Magna.png" group-title=".Lokal",Magna TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Magna.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Rodjatv.png" group-title=".Lokal",Rodja TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Rodja.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/SeaTuday.png" group-title=".Lokal",SEATuday
+http://ploto.hexat.com/TV-LOKAL17Nov2021/SeaTuday.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Edukasi.png" group-title=".Lokal",TV Edukasi
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TVedukasi.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Tic.png" group-title=".Lokal",TIC
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TIC.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JakartaGlobe.png" group-title=".Lokal",Jakarta Globe
+http://ploto.hexat.com/TV-LOKAL17Nov2021/JakartaGlube.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/TechStorm.png" group-title=".Lokal",TechStorm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Daai.png" group-title=".Lokal",DAAITV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/MyTV.png" group-title=".Lokal",MyTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be6a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Oshoop.png" group-title=".Lokal",Oshop
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb0896a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Nusantaratv.png" group-title=".Lokal",Nusantara
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e446a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Ochannel.png" group-title=".Lokal",O Channel1
+https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Ochannel.png" group-title=".Lokal",O Channel2
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/DuniaGane.png" group-title=".Lokal",DuniaGames
+http://ploto.hexat.com/TV-LOKAL17Nov2021/DuniaGames.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Duniagames
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/hi.png" group-title=".Lokal",HI Indo
+http://ploto.hexat.com/TV-LOKAL17Nov2021/HiIndo.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=iindo
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/Logo/UseeTV.png" group-title=".Lokal",Usee Photo
+http://ploto.hexat.com/TV-LOKAL17Nov2021/USEEpoto.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/Logo/UseeTV.png" group-title=".Lokal",Usee Prime
+http://ploto.hexat.com/TV-LOKAL17Nov2021/USEprime.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Rtampil.png" group-title=".Lokal",Ruang Tampil
+http://ploto.hexat.com/TV-LOKAL17Nov2021/RuangTampil.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/TVRI.png" group-title=".Lokal", Sports
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TVRIsports.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/TVRI.png" group-title=".Lokal",TVRI
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TVRI.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Tv9.png" group-title=".Lokal",Tv9
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TV9.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Amtv.png" group-title=".Lokal",AMTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/AMTV.m3u8?nimblesessionid=7831227?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Arektv.png" group-title=".Lokal",Arek TV
+http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/AllimanTV.png" group-title=".Lokal",AL-IMAN
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Aliman.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Iam.png" group-title=".Lokal",IAM Channel
+http://ploto.hexat.com/TV-LOKAL17Nov2021/IAM.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Bayutv.png" group-title=".Lokal",Bayu TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BayuTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Jogjatv.png" group-title=".Lokal",Jogja TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/JogjaTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/AdiTV.png" group-title=".Lokal",Adi TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/AdiTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Bandungtv.png" group-title=".Lokal",Bandung TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BandungTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Bantentv.png" group-title=".Lokal",Banten TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BantenTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Bbstv.png" group-title=".Lokal",BBSTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BBS.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/BeTV.png" group-title=".Lokal",BeTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BeTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/BMSTV.png" group-title=".Lokal",BMSTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BmsTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Badartv.png" group-title=".Lokal",Badar TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/BadarTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Banjartv.png" group-title=".Lokal",Banjar TV
+https://v2.siar.us/banjartv/livestream/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Batutv.png" group-title=".Lokal",Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Cahayatv.png" group-title=".Lokal",Cahaya Banten TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/CahayaTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Citratv.png" group-title=".Lokal",Citra TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/CitraTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/TVdesa.png" group-title=".Lokal",Desa TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/DesaTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Digdayatv.png" group-title=".Lokal",Digdaya TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/DigdayaTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/DutaTV.png" group-title=".Lokal",Duta TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/DutaTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/ElshintaTV.png" group-title=".Lokal",Elshinta TV
+http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Hbtv.png" group-title=".Lokal",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/RTM.png" group-title=".Lokal",RTM Parlimen
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Iqraa.png" group-title=".Lokal",Iqraa TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Iqrar.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JekTV.png" group-title=".Lokal",JekTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/JekTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JiTV.png" group-title=".Lokal",JITV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Jitv.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/JPM.png" group-title=".Lokal",JPM TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/JpmTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/LombokTV.png" group-title=".Lokal",Lombok TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/LombokTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Madanitv.png" group-title=".Lokal",Madani TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MadaniTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Madutv.png" group-title=".Lokal",MaduTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MaduTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/MGSTV.png" group-title=".Lokal",MGSTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/MgsTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/muadztv_2.png" group-title=".Lokal",Muadz TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Muadz.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Nusantaratv.png" group-title=".Lokal",Nusantara TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/NusantaraTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Niagatv.png" group-title=".Lokal",Niaga TVl
+http://ploto.hexat.com/TV-LOKAL17Nov2021/NiagaTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Padangtv.png" group-title=".Lokal",Padang TV
+http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/paltv.png" group-title=".Lokal",Pal TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/PalTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/RCTV.png" group-title=".Lokal",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Riautv.png" group-title=".Lokal",Riau TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/RiauTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/rrinet.png" group-title=".Lokal",RRINET
+http://ploto.hexat.com/TV-LOKAL17Nov2021/RriNet.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/SaktiTV.png" group-title=".Lokal",Sakti TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/SaktiTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Surautv.png" group-title=".Lokal",SurauTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/SurauTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/TATV.png" group-title=".Lokal",TATV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TATV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/TawaftV.png" group-title=".Lokal",Tawaf TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/Tawaf.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Tvku.png" group-title=".Lokal",TVKU
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TVKU.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Pontv.png" group-title=".Lokal",PonTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/PonTV.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Primatv.png" group-title=".Lokal",Prima TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/PrimaTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---?
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Tegartv.png" group-title=".Lokal",Tegar TV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/TegarTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/UGTV.png" group-title=".Lokal",UGTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/USTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="http://rafadervian.wap.sh/images/Wesaltv.png" group-title=".Lokal",WasaiTV
+http://ploto.hexat.com/TV-LOKAL17Nov2021/WasalTV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-menengh
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Jakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Bandung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#EXTINF:-1 group-title=".TVRI" tvg-logo="http://ploto.hexat.com/TVRI.png",TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8?id=Cahe-seneng-uwik87?angel=nek-kon-meneng
+#
+#EXTINF:-1 tvg-logo="http://ploto.hexat.com/IKIM.png" group-title=".Malaysia",TV IKIM My
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title=".Malaysia",8TV HD
+https://github.com/zhafri/IPTV/raw/main/TV9.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1 tvg-id="CHN" group-title=".Malaysia" tvg-logo="https://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 tvg-id="110" group-title=".Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-id="123" group-title=".Malaysia" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 tvg-id="111" group-title=".Malaysia" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 tvg-id="103" group-title=".Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Astro_Ceria_Logo_2.png/revision/latest/thumbnail-down/width/200/height/200?cb=20200926125258",Astro Prima
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6727.m3u8
+#EXTINF:-1 tvg-id="106" group-title=".Malaysia" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/astro-awani-live-vipotv-Malaysia.png",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-id="109" group-title=".Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest/scale-to-width-down/250?cb=20131101030840",TV1 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-id="CHN" group-title=".Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2 HD
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-id="CHN" group-title=".Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQMDi_D-4dFHfQheeoShMuw)/dm/3/x6qp375/d/live-1.m3u8
+#EXTINF:-1 tvg-id="106" group-title=".Malaysia" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-id="110" group-title=".Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV7_logo.svg/revision/latest/scale-to-width-down/200?cb=20200628094754",TV7 HD
